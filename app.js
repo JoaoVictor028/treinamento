@@ -1,5 +1,5 @@
 console.log("Commit 1");
 console.log("Commit 2");
 
-const msg = (msg) => console.log(msg);
-msg("Feat 01")
+const meuConsole = (msg, csl) => csl.log(msg);
+meuConsole("Feat 02", console);
