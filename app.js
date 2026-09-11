@@ -7,3 +7,6 @@ meuConsole("Feat 02", console);
 
 const msg = (msg, csl) => csl.log(msg);
 msg("Feat 03", console);
+
+const msg2 = (msg2, csl) => csl.log(msg);
+msg("Feat 04", console);
