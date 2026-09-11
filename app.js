@@ -4,3 +4,6 @@ console.log("Commit 3");
 
 const meuConsole = (msg, csl) => csl.log(msg);
 meuConsole("Feat 02", console);
+
+const msg = (msg, csl) => csl.log(msg);
+msg("Feat 03", console);
